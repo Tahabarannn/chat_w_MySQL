@@ -44,6 +44,6 @@ streamlit run app.py
 
 ---
 
-**Note**: This project is intended for educational and research purposes. Please ensure compliance with the terms of use and guidelines of any APIs or services used. This project is for educational purposes. Thank you Alejandro for the training and for this beautiful project. You can follow for a video of this project and more. [Alejandro Youtube Channel](https://www.youtube.com/@alejandro_ao)
+**Note**: This project is for educational purposes. Thank you Alejandro for the training and for this beautiful project. You can follow for a video of this project and more. [Alejandro Youtube Channel](https://www.youtube.com/@alejandro_ao)
 
 ---
